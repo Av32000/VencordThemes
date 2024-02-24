@@ -1,0 +1,17 @@
+#vc-spotify-player {
+    position: relative;
+    overflow: hidden;
+    background: none !important;
+}
+
+#vc-spotify-player::before {
+    content: "";
+    position: absolute;
+    top: -10px;
+    left: -10px;
+    height: 120%;
+    width: 120%;
+    background-image: var(--vc-spotify-track-image);
+    filter: blur(30px) brightness(0.75);
+    z-index: -1;
+}
