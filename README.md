@@ -4,4 +4,4 @@ URL : https://raw.githubusercontent.com/Av32000/VencordThemes/main/track-cover-a
 
 If you use the SotifyControl plugin, you can use this theme to use the cover of the current music as the player background.
 
-![image](https://github.com/Av32000/VencordThemes/assets/59660601/69b22a13-f6f0-4f36-b731-1f5d8be77afc)
+![image](https://github.com/user-attachments/assets/d526e431-cdcb-47f8-b882-c63eda83a7c0)
