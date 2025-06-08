@@ -19,3 +19,10 @@
     z-index: -1;
     background-size: 100% 100%;
 }
+
+#vc-spotify-progress-bar > [class^="slider_"] > [class^="bar_"] > [class^="barFill_"] {
+    background-color: white !important;
+    background: var(--vc-spotify-track-image);
+    background-size: 1px 100%;
+    filter: blur(1px) brightness(2);
+}
